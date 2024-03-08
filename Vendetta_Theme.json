@@ -97,8 +97,8 @@
     }
   },
   "background": {
-    "blur": 0.2,
-    "url": "https://go_service.aieasypic.com/?url=https%3A%2F%2Fimage.civitai.com%2FxG1nkqKTMzGDvpLrqFT7WA%2Fc57586bf-4dd6-45d5-9e2f-61665901ee7f%2Fwidth%3D600%2F5275215.jpeg",
+    "blur": 0.5,
+    "url": "https://image.tensorartassets.com/model_showcase/0/2b860c74-7fbd-c487-3703-b2b610e58965.png",
     "alpha": 0.5
   },
   "spec": 2
