@@ -97,7 +97,7 @@
     }
   },
   "background": {
-    "blur": 0.5,
+    "blur": 0.9,
     "url": "https://image.tensorartassets.com/model_showcase/0/2b860c74-7fbd-c487-3703-b2b610e58965.png",
     "alpha": 0.5
   },
